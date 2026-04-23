@@ -1,0 +1,2 @@
+# SQLITE_SCRIPTS_GERAIS
+woooooo
